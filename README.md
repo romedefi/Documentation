@@ -2,5 +2,5 @@
 
 ## RomeDefi Technical White Paper
 
-- [English](TechnicalWhitePaper.md)  translated by [@xiaoshidi]
-- [Chinese](zh-CN/TechnicalWhitePaper.md) translated by [@xiaoshidi]
+- [English](RomeDefi-Whitepaper-en.pdf)  translated by [@xiaoshidi]
+- [Chinese](RomeDefi-Whitepaper-zh_CN.pdf) translated by [@xiaoshidi]
